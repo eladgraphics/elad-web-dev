@@ -1,3 +1,6 @@
 I dont even know where this is added
 but I will like to continue
 I will understand one day.
+
+
+this is an additional text added after the first one in 3rd file telling me nothing commit 
